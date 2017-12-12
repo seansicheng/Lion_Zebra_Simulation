@@ -7,3 +7,7 @@ Use
 python run.py
 ```
  to run the simulation, you need PyGame installed in your system.
+
+Screenshot:
+
+![Alt text](1.png)
