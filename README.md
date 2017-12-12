@@ -8,6 +8,10 @@ python run.py
 ```
  to run the simulation, you need PyGame installed in your system.
 
-Screenshot:
+If zebras are concyclic at the beginning, here's some examples:
 
 ![Alt text](1.png)
+![Alt text](2.png)
+![Alt text](3.png)
+![Alt text](4.png)
+![Alt text](5.png)
